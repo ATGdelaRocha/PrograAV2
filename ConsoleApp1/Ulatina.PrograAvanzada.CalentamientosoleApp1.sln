@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrograAvanzada.AplicacionWe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrograAvanzada.BLAplicacionWeb", "WebApplication6\PrograAvanzada.BLAplicacionWeb.csproj", "{82B656FE-D714-428D-BC29-78279F01C32B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ulatina.PrograAvWCF", "Ulatina.PrograAvWCF\Ulatina.PrograAvWCF.csproj", "{5C9AC6F0-DF3C-4D28-AC24-72F5683E398B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{82B656FE-D714-428D-BC29-78279F01C32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82B656FE-D714-428D-BC29-78279F01C32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82B656FE-D714-428D-BC29-78279F01C32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C9AC6F0-DF3C-4D28-AC24-72F5683E398B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9AC6F0-DF3C-4D28-AC24-72F5683E398B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9AC6F0-DF3C-4D28-AC24-72F5683E398B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9AC6F0-DF3C-4D28-AC24-72F5683E398B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
